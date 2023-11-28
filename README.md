@@ -13,12 +13,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 
-- ♡ from Dhaka, Bangladesh
-- ♡ I’m interested in Web development and DSA 
-- ♡ I’m currently learning JavaScript and its library & frameworks( NextJs, NodeJs, ReactJs )
-- ♡ Let's Create Amazing projects together  
-- ♡  How to reach me sabberrahman.contact@gmail.com
-
+- ♡ I’m interested in <b>Web development and DSA</b> 
+- ♡ <b>I’m currently learning</b> JavaScript Ecosystem ꒱ frontend dev
+- ♡ <b>ask me about</b> Reachjs, Nextjs, how to center a div 
+- ♡ <b> Interested</b> in History, Case-study, podcast, SaSS, business and problem-solving
+- ♡  <b>Ping me</b> for a chat about @Tech @startUp @collaboration
+ 
 <h3>
   Lets Connect  
   <img src="https://github.com/sabberrahman/sabberrahman/assets/140933637/b4a33235-8a44-475c-a18e-9bf2cb0c9f7b" width="40px" height="40px"/>
