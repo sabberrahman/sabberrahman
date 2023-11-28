@@ -15,8 +15,9 @@
 
 
 
+- ✨ from Dhaka, Bangladesh
 - 👀 I’m interested in Web development and DSA
-- 🌱 I’m currently learning JavaScript and its library & frameworks( NextJs, NodeJs, ReactJs
+- 🌱 I’m currently learning JavaScript and its library & frameworks( NextJs, NodeJs, ReactJs )
 - 💞️ Let's Create Amazing projects together 
 - 📫 How to reach me sabberrahman.contact@gmail.com
 
