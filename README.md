@@ -2,6 +2,34 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<div id="header" align="center">
+  <h3>Hayy ⋆｡ﾟ☁︎｡ i°m Sabber rahman｡ ﾟ☾ ﾟ｡⋆</h3>
+  <i> ✧Digital Craftsman ✧web Developer ✧CS major student </i>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - 👋 Hi, I’m Sabber Rahman 
 - 👀 I’m interested in Web development and DSA 
