@@ -7,7 +7,10 @@
   <i> ✧Digital Craftsman ✧web Developer ✧CS major student </i>
 </div>
 
-
+<h3>
+  Little about me 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h3>
 
 
 
