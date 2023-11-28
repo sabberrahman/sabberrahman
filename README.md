@@ -14,7 +14,7 @@
 </h3>
 
 - ♡ I’m interested in <b>Web development and DSA</b> 
-- ♡ <b>I’m currently learning</b> JavaScript Ecosystem ꒱ frontend dev
+- ♡ <b>I’m currently learning</b> JavaScript vast Ecosystem ꒱ frontend dev
 - ♡ <b>ask me about</b> Reachjs, Nextjs, how to center a div 
 - ♡ <b> Interested</b> in History, Case-study, podcast, SaSS, business and problem-solving
 - ♡  <b>Ping me</b> for a chat about @Tech @startUp @collaboration
