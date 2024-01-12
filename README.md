@@ -4,8 +4,8 @@
 </div>
 <div id="header" align="left">
   <h2>Hayy
-    <img src="https://github.com/sabberrahman/sabberrahman/assets/140933637/29164053-e4b2-4ee9-9e33-ef9dd491ff86" width="30px"/> ｡ﾟ☁︎｡ i°m Sabber rahman｡ ﾟ☾ ﾟ｡</h2>
-  <i> ✧Digital Craftsman ✧web Developer ✧CS major student </i>
+    <img src="https://github.com/sabberrahman/sabberrahman/assets/140933637/29164053-e4b2-4ee9-9e33-ef9dd491ff86" width="30px"/> ｡ﾟ<code>i°m Sabber rahman｡ ﾟ☾ ﾟ｡ </code></h2>
+  <i> ✧Digital Craftsman✧ <code>Web Developer</code>✧CS major student </i>
 </div>
 
 <h3>
@@ -14,7 +14,7 @@
 </h3>
 
 - ♡ I’m interested in <b>Web development and DSA</b> 
-- ♡ <b>I’m currently learning</b> JavaScript vast Ecosystem ꒱ mern stack
+- ♡ <b>I’m currently learning</b> <code>JavaScript</code> vast Ecosystem ꒱<code>Mern stack</code>
 - ♡ <b>ask me about</b> Reachjs, Nextjs, how to center a div 
 - ♡ <b> Interested</b> in History, Case-study, podcast, SaSS, business and problem-solving
 - ♡  <b>Ping me</b> for a chat about @Tech @startUp @collaboration
