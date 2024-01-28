@@ -1,10 +1,10 @@
 
-<div id="header" align="left">
+<!-- <div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> -->
 <div id="header" align="left">
   <h2>Hayy
-    <img src="https://github.com/sabberrahman/sabberrahman/assets/140933637/29164053-e4b2-4ee9-9e33-ef9dd491ff86" width="30px"/> ｡ﾟ<code>i°m Sabber rahman｡ ﾟ☾ ﾟ｡ </code></h2>
+    <img src="https://github.com/sabberrahman/sabberrahman/assets/140933637/29164053-e4b2-4ee9-9e33-ef9dd491ff86" width="30px"/> <code>i`m Shonanur Rahman sabber</code></h2>
   <i> ✧Digital Craftsman✧ <code>Web Developer</code>✧CS major student </i>
 </div>
 
