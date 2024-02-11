@@ -11,7 +11,7 @@
 
 - ♡ I’m interested in <b>Web development and DSA</b> 
 - ♡ <b>I’m currently learning</b> <code>JavaScript</code> vast Ecosystem ꒱<code>Mern stack</code>
-- ♡ <b>ask me about</b> Reachjs, Nextjs, how to center a div 
+- ♡ <b>ask me about</b> Reactjs, Nextjs, how to center a div 
 - ♡ <b> Interested</b> in History, Case-study, podcast, SaSS, business and problem-solving
 - ♡  <b>Ping me</b> for a chat about @Tech @startUp @collaboration
  
