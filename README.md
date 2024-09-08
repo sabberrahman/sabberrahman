@@ -1,19 +1,43 @@
-<div id="header" align="left">
-  <h2>Hayy
-    <img src="https://github.com/sabberrahman/sabberrahman/assets/140933637/29164053-e4b2-4ee9-9e33-ef9dd491ff86" width="30px"/> <code>i`m Shohanur Rahman sabber</code></h2>
-  <i> ✧Digital Craftsman✧ <code>Web Developer</code>✧CS major student </i>
-</div>
 
-<h3>
-  Little about me 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h3>
+ <img src="https://utfs.io/f/4e1b4e97-87ae-48dd-be21-fead7613dc14-kg0fdj.png" width="600px" height="350px"/>
 
-- ♡ I’m interested in <b>Web development and DSA</b> 
-- ♡ <b>I’m currently learning</b> <code>JavaScript</code> vast Ecosystem ꒱<code>Mern stack</code>
-- ♡ <b>ask me about</b> Reactjs, Nextjs, how to center a div 
-- ♡ <b> Interested</b> in History, Case-study, podcast, SaSS, business and problem-solving
-- ♡  <b>Ping me</b> for a chat about @Tech @startUp @collaboration
+
+## 🛠️ Technologies & Tools
+
+### Frontend:
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) **React.js** , ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) **Next.js**
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) **JavaScript/TypeScript**
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Shadcn](https://img.shields.io/badge/-Shadcn%20UI-6C63FF?style=flat&logo=shadcn&logoColor=white) ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=mui&logoColor=white)  **Tailwind CSS, Bootstrap, Shadcn UI, **Material UI** + more**
+- ![DizzleORM](https://img.shields.io/badge/-DizzleORM-000000?style=flat&logo=dizzle&logoColor=white) **DizzleORM** 
+ ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-1A1A1A?style=flat&logo=framer&logoColor=white) **Framer Motion**
+- ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) **Redux Toolkit**
+
+### Backend:
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) **Node.js & Express.js**
+
+### Databases:
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**MongoDB**, **PostgreSQL**, **MySQL**
+---
+
+## 💡 What I Do
+
+- **📐 Figma to Code:** Turning beautiful designs into functional, responsive websites.
+- **🛠️ Full-Stack Applications:** Building end-to-end solutions with a focus on frontend development, powered by modern web technologies.
+- **🚀 Performance Optimization:** Creating highly performant and scalable web applications.
+- **🎨 UI/UX:** Ensuring every app I build is both visually appealing and easy to use.
+
+---
+
+## 🌟 Featured Projects
+
+- **[Project 1: NextJS Dashboard](https://shei-dashboard.vercel.app/)**  
+ 
+- **[Project 2: Create,Host & join Event on CholBhai](https://cholbhai.vercel.app/)**  
+ 
+
+- **[Project 3: Look Maxxing Dukan](https://hypebeast-inky.vercel.app/)**
+
  
 <h3>
   Lets Connect  
@@ -22,7 +46,7 @@
 <!-- Social Links -->
 <!-- Social Links -->
 <p align="left">
-  <a href="https://www.linkedin.com/in/shohanur-rahman-sabber-b82416203/" target="_blank" rel="noopener noreferrer">
+  <a href="www.linkedin.com/in/sabberrahman" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/sabberdev" target="_blank" rel="noopener noreferrer">
