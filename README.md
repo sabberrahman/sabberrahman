@@ -5,19 +5,18 @@
 ## 🛠️ Technologies & Tools
 
 ### Frontend:
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) **React.js** , ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) **Next.js**
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) **JavaScript/TypeScript**
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Shadcn](https://img.shields.io/badge/-Shadcn%20UI-6C63FF?style=flat&logo=shadcn&logoColor=white) ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=mui&logoColor=white)  **Tailwind CSS, Bootstrap, Shadcn UI, **Material UI** + more**
-- ![DizzleORM](https://img.shields.io/badge/-DizzleORM-000000?style=flat&logo=dizzle&logoColor=white) **DizzleORM** 
- ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-1A1A1A?style=flat&logo=framer&logoColor=white) **Framer Motion**
-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) **Redux Toolkit**
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) , ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Shadcn](https://img.shields.io/badge/-Shadcn%20UI-6C63FF?style=flat&logo=shadcn&logoColor=white) ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=mui&logoColor=white)  + **more**
+- ![DizzleORM](https://img.shields.io/badge/-DizzleORM-000000?style=flat&logo=dizzle&logoColor=white) 
+ ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-1A1A1A?style=flat&logo=framer&logoColor=white) 
+- ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) 
 
 ### Backend:
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) **Node.js & Express.js**
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) 
 
 ### Databases:
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-**MongoDB**, **PostgreSQL**, **MySQL**
 ---
 
 ## 💡 What I Do
