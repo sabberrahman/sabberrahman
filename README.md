@@ -1,5 +1,5 @@
 
- <img src="https://utfs.io/f/4e1b4e97-87ae-48dd-be21-fead7613dc14-kg0fdj.png" width="600px" height="350px"/>
+ <img src="https://utfs.io/f/4e1b4e97-87ae-48dd-be21-fead7613dc14-kg0fdj.png" width="auto" height="350px"/>
 
 
 ## 🛠️ Technologies & Tools
