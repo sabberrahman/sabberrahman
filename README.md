@@ -17,25 +17,7 @@
 
 ### Databases:
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
----
 
-## 💡 What I Do
-
-- **📐 Figma to Code:** Turning beautiful designs into functional, responsive websites.
-- **🛠️ Full-Stack Applications:** Building end-to-end solutions with a focus on frontend development, powered by modern web technologies.
-- **🚀 Performance Optimization:** Creating highly performant and scalable web applications.
-- **🎨 UI/UX:** Ensuring every app I build is both visually appealing and easy to use.
-
----
-
-## 🌟 Featured Projects
-
-- **[Project 1: NextJS Dashboard](https://shei-dashboard.vercel.app/)**  
- 
-- **[Project 2: Create,Host & join Event on CholBhai](https://cholbhai.vercel.app/)**  
- 
-
-- **[Project 3: Look Maxxing Dukan](https://hypebeast-inky.vercel.app/)**
 
  
 <h3>
